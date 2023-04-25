@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BeI9CkPT9vfcd5XVo93KMUiF+nGUjScGaSU3LG1PZtL4ql9Bd7arYLp3wo+GxND1XkC+jwkqOLOiGO2l6dDxlw==",
+  "dgSpecHash": "PjkZXcp5MaLB0KUkjce+OdWqe5NDsk5U4TEH/j6hPCf3J1B00HOmXiqEBAQ0yjwY3Qf7t0c2S6/K0AquAaxndA==",
   "success": true,
   "projectFilePath": "C:\\Ivanti_software\\Geometric_layouts\\GeometricLayouts.Models\\GeometricLayouts.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tetal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\tetal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\tetal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tetal\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricLayouts", "GeometricLayouts.csproj", "{2162FD2D-9FC4-4701-8E28-4BA33A777F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometricLayouts", "GeometricLayouts.csproj", "{2162FD2D-9FC4-4701-8E28-4BA33A777F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricLayouts.Models", "..\GeometricLayouts.Models\GeometricLayouts.Models.csproj", "{EE64DE92-8107-47F6-B310-6141BB19F008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometricLayouts.Models", "..\GeometricLayouts.Models\GeometricLayouts.Models.csproj", "{EE64DE92-8107-47F6-B310-6141BB19F008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricLayouts.Tests", "..\GeometricLayouts.Tests\GeometricLayouts.Tests.csproj", "{D08B7880-A858-43C1-82A8-C4B23D83E7FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometricLayouts.Tests", "..\GeometricLayouts.Tests\GeometricLayouts.Tests.csproj", "{D08B7880-A858-43C1-82A8-C4B23D83E7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricLayouts.Domain", "..\GeometricLayouts.Domain\GeometricLayouts.Domain.csproj", "{120B9EC7-AD39-4937-ABC2-8D10DA1501BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D08B7880-A858-43C1-82A8-C4B23D83E7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D08B7880-A858-43C1-82A8-C4B23D83E7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D08B7880-A858-43C1-82A8-C4B23D83E7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120B9EC7-AD39-4937-ABC2-8D10DA1501BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120B9EC7-AD39-4937-ABC2-8D10DA1501BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120B9EC7-AD39-4937-ABC2-8D10DA1501BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120B9EC7-AD39-4937-ABC2-8D10DA1501BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -40,3 +40,8 @@ C:\Ivanti_software\Geometric_layouts\GeometricLayouts\bin\Debug\netcoreapp3.1\Sw
 C:\Ivanti_software\Geometric_layouts\GeometricLayouts\obj\Debug\netcoreapp3.1\GeometricLayouts.csproj.CoreCompileInputs.cache
 C:\Ivanti_software\Geometric_layouts\GeometricLayouts\obj\Debug\netcoreapp3.1\GeometricLayouts.MvcApplicationPartsAssemblyInfo.cs
 C:\Ivanti_software\Geometric_layouts\GeometricLayouts\obj\Debug\netcoreapp3.1\GeometricLayouts.MvcApplicationPartsAssemblyInfo.cache
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts\bin\Debug\netcoreapp3.1\GeometricLayouts.Domain.dll
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts\bin\Debug\netcoreapp3.1\GeometricLayouts.Models.dll
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts\bin\Debug\netcoreapp3.1\GeometricLayouts.Domain.pdb
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts\bin\Debug\netcoreapp3.1\GeometricLayouts.Models.pdb

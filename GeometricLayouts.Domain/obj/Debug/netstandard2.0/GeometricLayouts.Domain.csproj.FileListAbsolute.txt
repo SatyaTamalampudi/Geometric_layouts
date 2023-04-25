@@ -1,0 +1,12 @@
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\bin\Debug\netstandard2.0\GeometricLayouts.Domain.deps.json
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\bin\Debug\netstandard2.0\GeometricLayouts.Domain.dll
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\bin\Debug\netstandard2.0\GeometricLayouts.Domain.pdb
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\bin\Debug\netstandard2.0\GeometricLayouts.Models.dll
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\bin\Debug\netstandard2.0\GeometricLayouts.Models.pdb
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\obj\Debug\netstandard2.0\GeometricLayouts.Domain.AssemblyInfoInputs.cache
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\obj\Debug\netstandard2.0\GeometricLayouts.Domain.AssemblyInfo.cs
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\obj\Debug\netstandard2.0\GeometricLayouts.Domain.csproj.CoreCompileInputs.cache
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\obj\Debug\netstandard2.0\GeometricLayouts.Domain.csproj.CopyComplete
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\obj\Debug\netstandard2.0\GeometricLayouts.Domain.dll
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\obj\Debug\netstandard2.0\GeometricLayouts.Domain.pdb
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Domain\obj\Debug\netstandard2.0\GeometricLayouts.Domain.csprojAssemblyReference.cache

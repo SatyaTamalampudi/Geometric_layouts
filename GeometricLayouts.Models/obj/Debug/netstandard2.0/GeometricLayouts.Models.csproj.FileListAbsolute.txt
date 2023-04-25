@@ -1,0 +1,9 @@
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\bin\Debug\netstandard2.0\GeometricLayouts.Models.deps.json
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\bin\Debug\netstandard2.0\GeometricLayouts.Models.dll
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\obj\Debug\netstandard2.0\GeometricLayouts.Models.csprojAssemblyReference.cache
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\obj\Debug\netstandard2.0\GeometricLayouts.Models.AssemblyInfoInputs.cache
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\obj\Debug\netstandard2.0\GeometricLayouts.Models.AssemblyInfo.cs
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\bin\Debug\netstandard2.0\GeometricLayouts.Models.pdb
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\obj\Debug\netstandard2.0\GeometricLayouts.Models.csproj.CoreCompileInputs.cache
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\obj\Debug\netstandard2.0\GeometricLayouts.Models.dll
+C:\Ivanti_software\Geometric_layouts\GeometricLayouts.Models\obj\Debug\netstandard2.0\GeometricLayouts.Models.pdb

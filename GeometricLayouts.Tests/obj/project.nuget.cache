@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "E8sF5lr3ORjS26fNsbmuCi4KVGvaNsgWX0QzVhzFJ4mGaeoqRQYMSBfeqOH6N9UhVySxkwqNqdOszoM0eI/hqg==",
+  "dgSpecHash": "NPRFFdQ5KyxktSRkXNWcjQQ0HP1juYRYId4HlFxIX6asM55DNDOvVqso5V8/p0kHVCrq+fW5fA0+p8CwcdCfGw==",
   "success": true,
   "projectFilePath": "C:\\Ivanti_software\\Geometric_layouts\\GeometricLayouts.Tests\\GeometricLayouts.Tests.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\tetal\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\tetal\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\tetal\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\tetal\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\tetal\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\tetal\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\tetal\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
